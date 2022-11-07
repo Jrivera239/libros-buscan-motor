@@ -17,13 +17,5 @@
   },
   "dependencies": {
     "apollo-server-express": "^2.15.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chloebyrnes/book-search.git"
-  },
-  "bugs": {
-    "url": "https://github.com/chloebyrnes/book-search/issues"
-  },
-  "homepage": "https://github.com/chloebyrnes/book-search#readme"
+  }
 }
